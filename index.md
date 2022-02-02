@@ -29,6 +29,7 @@
 					<div class="col-8 col-7-large col-12-medium">
 						<header>
 							<h1></h1>
+							<h1></h1>
 							<h2>Well, hello there! Thank you for visiting my portfolio.</h2>
 						</header>
 						<p>My name is <strong>Samuel DiMaggio</strong>. I have an M.S. in Data Science from Maryville University in St. Louis, MO and a B.S. in Physics from Westminster College in Salt Lake City, UT. </p>
